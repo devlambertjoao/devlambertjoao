@@ -1,16 +1,20 @@
-### Hi there 👋
+## Find me
+- [LinkedIn](https://www.linkedin.com/in/joao-lambert/)
 
-<!--
-**devlambertjoao/devlambertjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm 23 years old, from Curitiba, PR Brazil.
+- Passionate about games, linux, simracing, hardware.
 
-Here are some ideas to get you started:
+## Studiyng now
+- English
+- More about Springboot
+- Software architecture based on micro services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Techs
+- My favorite stack is Java and React, but I have extensive knowledge with Angular, JavaScript/TypeScript and .NET Core.
+- Prefer SQL databases than NoSQL
+- Redis
+- Docker and Kubernetes
+- DevOps (Sonar, Jenkins, ELK Stack, Graylog)
+- Kafka and RabbitMQ for queue/messaging
+- Prefer Linux (Archlinux is the better option) than Windows
