@@ -7,9 +7,11 @@
 
 ## Studiyng now
 - English
-- More about Springboot
+- Microservices
 - Ruby on Rails
-- Software architecture based on micro services
+- Software architecture
+- Next JS
+- Azure 
 
 ## Techs
 - My favorite stack is Java and React, but I have extensive knowledge with Angular, JavaScript/TypeScript and .NET Core.
