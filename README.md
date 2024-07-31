@@ -2,7 +2,7 @@
 - [LinkedIn](https://www.linkedin.com/in/joao-lambert/)
 
 ## About Me
-- I'm 26 years old, from Curitiba, PR Brazil.
+- I'm 27 years old, from Curitiba, PR Brazil.
 - Passionate about games, linux, simracing, hardware.
 
 ## Studiyng now
