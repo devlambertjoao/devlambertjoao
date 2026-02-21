@@ -1,6 +1,6 @@
 ## About Me
 - I'm 28 years old, from Curitiba, PR Brazil.
-- Passionate about games, linux, simracing, hardware.
+- Passionate about games, linux, simracing, hardware and audio.
 
 ## Studiyng now
 - English
