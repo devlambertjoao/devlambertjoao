@@ -1,21 +1,19 @@
-## Find me
-- [LinkedIn](https://www.linkedin.com/in/joao-lambert/)
-
 ## About Me
-- I'm 27 years old, from Curitiba, PR Brazil.
+- I'm 28 years old, from Curitiba, PR Brazil.
 - Passionate about games, linux, simracing, hardware.
 
 ## Studiyng now
 - English
-- Microservices
-- Ruby on Rails
-- Software architecture
-- Next JS
-- Azure 
+
+## I want to study in the future
+- Rust
+- More of AI
+- Machine Learning
 
 ## Techs
-- My favorite stack is Java and React, but I have extensive knowledge with Angular, JavaScript/TypeScript and .NET Core.
+- My favorite stack is Ruby on Rails and React (NextJS), but I have extensive knowledge with Angular, JavaScript/TypeScript, .NET Core and Java/Spring Boot.
 - Prefer SQL databases than NoSQL, but I have knowledge with both
+- Intermediate knowledge of AI
 - Redis
 - Docker and Kubernetes
 - DevOps (Sonar, Jenkins, ELK Stack, Graylog)
