@@ -7,7 +7,7 @@
 
 ## I want to study in the future
 - Rust
-- More of AI
+- More about AI
 - Machine Learning
 
 ## Techs
